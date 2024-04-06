@@ -2,25 +2,16 @@
 
 https://reintech.io/blog/how-to-create-a-restful-api-with-rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Task model and controller
+routes
 
-Things you may want to cover:
+https://www.codelabsdash.com/lessons/backend/ruby-on-rails/fs-project-part-1
 
-* Ruby version
+uncomment gem "rack-cors"
+bundle i
+config/initializers/cors.rb
 
-* System dependencies
+go to Front End tasks_client (Angular 17)
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
